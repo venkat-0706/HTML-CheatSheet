@@ -6,15 +6,15 @@
 A quick reference guide to HTML, covering the most essential tags, attributes, and best practices for building web pages.
 
 ## 📚 Table of Contents
-- [Basic Structure](#basic-structure)
-- [Text Formatting](#text-formatting)
-- [Links](#links)
-- [Images](#images)
-- [Lists](#lists)
-- [Tables](#tables)
-- [Forms](#forms)
-- [Multimedia](#multimedia)
-- [Semantic Elements](#semantic-elements)
+- Basic Structure
+- Text Formatting
+- Links
+- Images
+- Lists
+- Tables
+- Forms
+- Multimedia
+- Semantic Elements
 
 ---
 
